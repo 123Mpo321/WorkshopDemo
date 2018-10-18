@@ -3,3 +3,9 @@ def foo():
     print("bar")
 
 foo()
+
+
+def bar():
+    print("hello")
+
+bar()
