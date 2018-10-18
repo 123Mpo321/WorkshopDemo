@@ -1,3 +1,5 @@
-print("hello")
-print("bar")
-print("it")
+def function():
+    print("hello")
+    print("bar")
+
+function()
