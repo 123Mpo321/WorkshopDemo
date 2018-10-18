@@ -1,5 +1,5 @@
-def function():
+def foo():
     print("hello")
     print("bar")
 
-function()
+foo()
